@@ -117,17 +117,7 @@ ul{
 .content_right{
   float: right;
 }
-.banner{
-  overflow: hidden;
 
-  height: 300px;
-}
-.banner li{
-  list-style: none;
-}
-.banner ul li{
-  float: left;
-}
 .content_title{
   width: 1000px;
 
