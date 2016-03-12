@@ -48,13 +48,10 @@ ul{
   background-color: #bd3847;
 }
 .banner{
-  overflow: hidden;
 
   width: 1000px;
   height: 300px;
   padding-top: 5px;
-
-  border-bottom: 10px solid #656565;
 }
 .ad .pic{    background: url(../images/loading.gif)no-repeat center;}
 .scoll{
